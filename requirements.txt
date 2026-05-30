@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+transformers
+pandas
+numpy
+Pillow
+tqdm
+scikit-learn
+timm
+mamba-ssm
+cn-clip
+openpyxl
+matplotlib
