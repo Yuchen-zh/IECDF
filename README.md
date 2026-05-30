@@ -58,3 +58,24 @@ Please prepare the processed multimodal data and features following the dataload
 ## 🤗 Acknowledgements
 
 We sincerely thank the authors of the related datasets, pretrained models, and open-source projects.
+
+## 📚 Citation
+
+If you find this repository useful, please cite our paper:
+
+```bibtex
+@article{zhang2026imbalance,
+  author = {Zhang, Yuchen and Luo, Tingjin and Wu, Hongbing and Liu, Xinwang and Hou, Chenping},
+  title = {Imbalanced Multi-Domain Multi-Modal Learning with Expert Collaboration and Dynamic Fusion Mechanism for Fake News Detection},
+  year = {2026},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  issn = {1046-8188},
+  url = {https://doi.org/10.1145/3816245},
+  doi = {10.1145/3816245},
+  note = {Just Accepted},
+  journal = {ACM Trans. Inf. Syst.},
+  month = may,
+  keywords = {Fake news detection, Imbalanced classification, Multi-domain learning, Multi-model learning}
+}
+```
